@@ -1,4 +1,6 @@
 Roses are red.
 Violets are blue.
+This is a new rhyme
 I can't rhyme,
 Cheese on toast.
+Final line
